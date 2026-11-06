@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/PhucDnag">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+%C4%90%E1%BA%B7ng+H%E1%BB%93ng+Ph%C3%BAc;Backend+Developer+%2F+Software+Engineer;MERN+Stack+Developer;Passionate+about+APIs%2C+Web+Apps+%26+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dang+Hong+Phuc;Backend+Developer+%2F+Software+Engineer;MERN+Stack+Developer;Passionate+about+APIs%2C+Web+Apps+%26+AI" alt="Typing SVG" />
   </a>
 
 </div>
