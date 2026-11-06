@@ -16,38 +16,14 @@
 
 ### 👨‍💻 About Me
 
-Xin chào! Tôi là **Đặng Hồng Phúc** (`@PhucDnag`), một sinh viên / lập trình viên ngành **Công nghệ Thông tin (Information Technology)** với định hướng trở thành **Backend Developer / Software Engineer** chuyên nghiệp.
+Hi there! I'm **Đặng Hồng Phúc** (`@PhucDnag`), an **Information Technology** student and developer aspiring to become a professional **Backend Developer / Software Engineer**.
 
-- 🏡 **Quê quán:** Hưng Yên, Việt Nam
-- 📍 **Sinh sống & Làm việc:** Hà Nội, Việt Nam
-- 🎓 **Chuyên ngành:** Information Technology (CNTT)
-- 🎯 **Mục tiêu nghề nghiệp:** Backend Developer / Software Engineer
-- 💻 **Stack chính:** **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 💡 **Sở thích & Đam mê:** Backend Development, thiết kế RESTful APIs, xây dựng Web Applications và khám phá AI & Automation.
-
-```javascript
-const phucDang = {
-  fullName: "Đặng Hồng Phúc",
-  github: "@PhucDnag",
-  hometown: "Hung Yen, Vietnam",
-  currentLocation: "Ha Noi, Vietnam",
-  education: "Information Technology",
-  careerGoal: ["Backend Developer", "Software Engineer"],
-  mainStack: "MERN Stack",
-  skills: {
-    backend: ["Node.js", "Express.js", "RESTful APIs"],
-    frontend: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3"],
-    database: ["MongoDB"]
-  },
-  interests: [
-    "Backend Architecture",
-    "RESTful API Design",
-    "Full-stack Web Applications",
-    "AI & Workflow Automation"
-  ],
-  motto: "Clean code, scalable backend, smart automation."
-};
-```
+- 🏡 **Hometown:** Hung Yen, Vietnam
+- 📍 **Current Location:** Ha Noi, Vietnam
+- 🎓 **Education:** Information Technology
+- 🎯 **Career Goal:** Backend Developer / Software Engineer
+- 💻 **Main Stack:** **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 💡 **Interests:** Backend Development, RESTful APIs, Web Applications, and AI & Automation
 
 ---
 
@@ -99,7 +75,7 @@ const phucDang = {
   <a href="https://github.com/PhucDnag" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-PhucDnag-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Thay đổi đường dẫn Email / Facebook / LinkedIn của bạn vào bên dưới -->
+  <!-- Replace with your actual Email / LinkedIn links below -->
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
